@@ -54,6 +54,12 @@ Sou apaixonado por resolver problemas reais por meio da programação e acredito
 </table>
 <br>
 
+🧠 **Aprendendo atualmente:** React e  me aprofudando em Java. <br>
+
+🔧 **Ferramentas favoritas:** VSCode, NetBeans, IntelliJ, Figma.
+
+<br>
+
 <h2>Contate-me:</h2>
 <div> 
   <a href="mailto:jonathasjob.2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"></a>
