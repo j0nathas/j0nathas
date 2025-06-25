@@ -6,7 +6,7 @@
 
 
 Eu sou um desenvolvedor Full-Stack Júnior em formação.
-Sou movido pela paixão por tecnologia e programação. Gosto de criar soluções que geram impacto real no dia a dia das pessoas. Estou sempre buscando evoluir, tanto tecnicamente quanto pessoalmente, unindo hard e soft skills para me tornar um profissional cada vez mais completo.
+Sou apaixonado por resolver problemas reais por meio da programação e acredito no poder da tecnologia para transformar o cotidiano. Estou sempre buscando evoluir, tanto tecnicamente quanto pessoalmente, unindo hard e soft skills para me tornar um profissional cada vez mais completo.
 
 <br>
 
