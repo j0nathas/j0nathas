@@ -27,6 +27,10 @@ Sou apaixonado por resolver problemas reais por meio da programação e acredito
       <br>JavaScript
     </td>
     <td align="center">
+      <img alt="John-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <br>React
+    </td>
+    <td align="center">
       <img alt="John-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
       <br>Bootstrap
     </td>
