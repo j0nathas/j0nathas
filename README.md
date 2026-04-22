@@ -16,50 +16,50 @@ Sou apaixonado por resolver problemas reais por meio da programação e acredito
 </div>
 
 <h2>🛠️ Linguagens, frameworks e bibliotecas:</h2>
-<table>
+<table align="center">
   <tr>
     <td align="center">
-      <img alt="John-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
       <br>Java
     </td>
     <td align="center">
-      <img alt="John-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
       <br>JavaScript
     </td>
     <td align="center">
-      <img alt="John-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <br>React
     </td>
-     <td align="center">
-      <img alt="John-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-plain.svg">
+    <td align="center">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
       <br>Node.js
     </td>
     <td align="center">
-      <img alt="John-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
       <br>Bootstrap
     </td>
     <td align="center">
-      <img alt="John-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original-wordmark.svg">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
       <br>SQL Server
     </td>
     <td align="center">
-      <img alt="John-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       <br>MySQL
     </td>
     <td align="center">
-      <img alt="John-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       <br>CSS
     </td>
     <td align="center">
-      <img alt="John-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
       <br>Git
     </td>
     <td align="center">
-      <img alt="John-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
       <br>GitHub
     </td>
     <td align="center">
-      <img alt="John-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
       <br>HTML
     </td>
   </tr>
