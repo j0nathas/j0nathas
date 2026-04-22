@@ -30,9 +30,17 @@ Sou apaixonado por resolver problemas reais por meio da programação e acredito
       <img alt="John-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <br>React
     </td>
+     <td align="center">
+      <img alt="John-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-plain.svg">
+      <br>Node.js
+    </td>
     <td align="center">
       <img alt="John-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
       <br>Bootstrap
+    </td>
+    <td align="center">
+      <img alt="John-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original-wordmark.svg">
+      <br>SQL Server
     </td>
     <td align="center">
       <img alt="John-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
