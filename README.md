@@ -68,7 +68,7 @@ Sou apaixonado por resolver problemas reais por meio da programação e acredito
 
 🧠 **Aprendendo atualmente:** React e  me aprofudando em Java. <br>
 
-🔧 **Ferramentas favoritas:** VSCode, NetBeans, IntelliJ, Figma.
+🔧 **Ferramentas favoritas:** VSCode, IntelliJ, Figma.
 
 <br>
 
